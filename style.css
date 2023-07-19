@@ -1,0 +1,70 @@
+/*variabel*/
+:root {
+  --cor1: #ffffff;
+  --cor2: #D6E2F0;
+  --cor3: #7B879D;
+  --cor4: #1F3251;
+}
+
+/*CSS reset*/
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+main, h1, p, div {
+  margin: 0px;
+  padding: 0px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/*CSS Styles*/
+
+body {
+  display: grid;
+  margin: 60px;
+  justify-content: center;
+  background: var(--cor2);
+  font-family: Outfit, sans-serif;
+}
+
+.card-main {
+  display: grid;
+  max-width: 100vw;
+  width: 300px;
+  padding: 20px;
+  gap: 20px;
+  border-radius: 5px;
+  background: var(--cor1);
+  box-shadow: -4px 4px 4px rgba(123, 135,157,0.1);
+}
+
+.card-img {
+  border-radius: 5px;
+}
+
+.card-description {
+  display: grid;
+  gap: 20px;
+}
+
+.card-description h1 {
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: var(--cor4);
+  font-weight: 800;
+}
+
+.card-description p {
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  font-weight: 400;
+  color: var(--cor3);
+}
