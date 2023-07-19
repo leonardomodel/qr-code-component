@@ -71,6 +71,10 @@ body {
 
 /*media queries*/
 @media (max-width: 374px) {
+  body {
+    margin: 20px;
+  }
+
   .card-main {
     max-width: 100vw;
     width: 220px;
