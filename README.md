@@ -1,10 +1,10 @@
 ### Print Screen
 
+![image](https://github.com/leonardomodel/qr-code-component/assets/35821748/da7b8349-89ff-46d6-a9e5-320cc01b14a1)
+
 
 ### Links
-
-- Solution URL: [Add Solution URL Here](https://your-solution-url.com)
-- Live Website URL: [Add Live Website URL Here](https://your-live-site-url.com)
+- Live Website URL:(https://leonardomodel.github.io/qr-code-component/)
 
 ### Built with
 
